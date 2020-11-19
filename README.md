@@ -11,18 +11,10 @@
   <p align="center">
    TKINTER SNAKE GAME WITH PROCEDURAL PYTHON
     <br />
-    
-    <br />
-    <br />
   
   </p>
 </p>
 
 
 
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
 
